@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 ## **教育经历**
-本科：
-南昌工程学院水利与生态工程学院  园林
+2020-2024
+南昌工程学院水利与生态工程学院  园林  GPA：3.44 
+主修课程：土壤学，园林生态学，植物造景，园林植物组织培养
 
-研究生：
+2024-至今
 华中农业大学资源与环境学院  资源利用与植物保护
  
 ## **曾获荣誉**
